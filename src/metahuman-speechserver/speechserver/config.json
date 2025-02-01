@@ -1,0 +1,11 @@
+{
+    "audio_path": "C:\\Users\\Admin\\Downloads",
+    "openai_api_key": "",
+    "elevenlabs_api_key": "",
+    "audio2face_client_path": "C:\\Users\\Admin\\AppData\\Local\\ov\\pkg\\audio2face-2023.2.0\\exts\\omni.audio2face.player\\omni\\audio2face\\player\\scripts\\streaming_server\\test_client.py",
+    "audio2face_client_path_grace": "C:\\Users\\Admin\\AppData\\Local\\ov\\pkg\\audio2face-2023.2.0\\exts\\omni.audio2face.player\\omni\\audio2face\\player\\scripts\\streaming_server\\A2F-client-Grace.py",
+    "audio2face_client_path_trip": "C:\\Users\\Admin\\AppData\\Local\\ov\\pkg\\audio2face-2023.2.0\\exts\\omni.audio2face.player\\omni\\audio2face\\player\\scripts\\streaming_server\\A2F-client-Trip.py",
+    "audio2face_prim_path": "/World/audio2face/audio_player_streaming",
+    "audio2face_prim_path_grace": "/World/audio2face/PlayerStreaming_Grace",
+    "audio2face_prim_path_trip": "/World/audio2face/PlayerStreaming_Trip"
+}

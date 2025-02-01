@@ -1,0 +1,4 @@
+# Speechserver for MetaHuman face animations
+This directory contains the code for creating a python server running on localhost which acts as a middleman between a GPT chat via the OpenAI API, the Audio2Face program and the Unreal scene containing the metahuman to interact with. There is also the code used for cloning the voices of Grace and Trip from the lines of the game Facade.
+
+The purpose of the speechserver is to allow a user to send a prompt to ChatGPT. Then, the answer is received by the server and then sent to ElevenLabs to get an audio file with a chosen voice. The audio file is received and then sent by the server to the Audio2Face program, which should already be connected to the Unreal project via Live Link. Finally, Audio2Face receives the audio and plays it together with facial animations in the Unreal project, bringing the metahuman to life. 
