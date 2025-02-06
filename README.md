@@ -2,7 +2,9 @@
 
 This repo is a skeleton of my master's thesis project, where I replicated the game [Facade](https://www.playablstudios.com/facade) using GPT-4o, ElevenLabs, Audio2Face, Unreal Engine 5, and a Flask Python server. 
 
-**The complete src folder can be found [here](https://e.pcloud.link/publink/show?code=XZEx6CZJjrCAft1rohTltQVr92cn81LPcY7).**
+📁 **The complete src folder can be found [here](https://e.pcloud.link/publink/show?code=XZEx6CZJjrCAft1rohTltQVr92cn81LPcY7).** 📁
+
+📹 A trailer of this game can be found [here](https://drive.google.com/file/d/1phJvLcm62Q0z8fDLZr3g4dqnZZ1ELMVm/view?usp=sharing)! 📹
 
 In this repo, the complete code for the server and the Audio2Face files can be found in the [metahuman-speechserver folder](./src/metahuman-speechserver/). The Unreal Engine project could not be uploaded to due the project size. Explanations on the code/UE project and how to run the game can be found in the [src README file](./src/README.md).
 
